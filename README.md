@@ -15,4 +15,4 @@ O AntiCheat foi feito apenas para banir jogadores que estão utilizando algum ti
 
 Banimento: Coloquei o banimento por IP só que por apenas 10 segundos para você voltar e testar novamente caso queira. 
 
-(Obs: O Reach/Kill-Aura ele detectar em qualquer entidade seja animal, monstro ou player)
+(Obs: O Reach/Kill-Aura ele detecta em qualquer entidade seja animal, monstro ou player)
