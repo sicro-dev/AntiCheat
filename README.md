@@ -1,5 +1,5 @@
 # AntiCheat
-Plugin feito para banir automaticamente infratores!
+Plugin feito para banir infratores automaticamente!
 
 Olá! Eu te desafio a burlar meu AntiCheat! Boa sorte e se divirta.
 
