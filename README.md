@@ -9,8 +9,10 @@ Instruções e Configurações:
 
 O AntiCheat foi feito apenas para banir jogadores que estão utilizando algum tipo de Fly ou Reach/Kill-Aura.
 
-- Identifica jogadores que estão usando algum tipo de Reach/Kill e bane. (Obs: Ele detectar em qualquer entidade seja animal, monstro ou player)
+- Identifica jogadores que estão usando algum tipo de Reach/Kill e bane.
 
 - Identifica jogadores que não tem permissão para voar e bane.
 
 Banimento: Coloquei o banimento por IP só que por apenas 10 segundos para você voltar e testar novamente caso queira. 
+
+(Obs: O Reach/Kill-Aura ele detectar em qualquer entidade seja animal, monstro ou player)
