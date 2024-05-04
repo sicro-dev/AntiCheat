@@ -1,0 +1,3 @@
+name: anticheat
+version: '${project.version}'
+main: br.com.sicro.anticheat.Anticheat
