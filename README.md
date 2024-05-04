@@ -13,4 +13,4 @@ O AntiCheat foi feito apenas para banir jogadores que estão utilizando algum ti
 
 - Identifica jogadores que não tem permissão para voar e bane.
 
-Banimento: Coloquei o banimento por IP só que por apenas por 10 segundos para você voltar e testar novamente caso queira. (Obs: Se não conseguir voltar vá em banned-ips, remova o que tiver dentro e reinicie o servidor.)
+Banimento: Coloquei o banimento por IP só que por apenas 10 segundos para você voltar e testar novamente caso queira. 
